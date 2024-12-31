@@ -3,8 +3,7 @@ Collects all kind of hardware names/IDs using `CimInstance`, preview:
 
 ![NV HWID](https://github.com/5Noxi/HWID-Collector/blob/main/NV-HWID.png?raw=true)
 
-
-__**Exact IDs/infos:**__
+__**Options:**__
 - `BIOS UUID`
 - `BIOS Version`
 - `BIOS Manufacturer`
@@ -28,3 +27,6 @@ __**Exact IDs/infos:**__
 - `Operating System`
 - `OS Architecture`
 - `OS Version`
+
+## Additions
+Feel free to tell me further useful additions, which should be added ;D
