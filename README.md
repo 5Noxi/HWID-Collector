@@ -1,6 +1,8 @@
 # HWID-Collector
 Collects all kind of hardware names/IDs
 
+![NV HWID](https://github.com/5Noxi/HWID-Collector/blob/main/NV-HWID.png?raw=true)
+
 
 __**Exact IDs/infos:**__
 - `BIOS UUID`
